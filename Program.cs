@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, Professor!");
             Console.WriteLine("Meili Zheng, I want to learn AI");
+            Console.WriteLine("Hello 2024!");
         }
     }
 }
